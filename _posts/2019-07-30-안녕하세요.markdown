@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "test1"
+date:   2019-08-31 13:48:27 +0900
+---
+<img src="{{ site.baseurl }}/images/testimage.jpg" width="240" height="240" align="right">
+* <p><font size="4">멘사 코리아 정회원</font></p>
+* <p><font size="4">'Magic Bar Trick'에서 마술사로 근무</font></p>
+* <p><font size="4">유명 수능수학 수험서 이해원 모의고사 N제 확률과 통계 2019, 미분과적분2 2020 검토</font></p>
+* <p><font size="4">국제 포커대회 J88 poker tour에서 2회 입상</font></p>
