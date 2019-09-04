@@ -2,7 +2,7 @@
 layout: profile
 date:   2019-08-31 13:48:27 +0900
 ---
-<img src="{{ site.baseurl }}/images/testimage.jpg" width="240" height="240" align="right">
+<img src="{{ site.baseurl }}/images/testimage.jpg" width="195" height="254" align="right">
 <p><font size="5">박수빈</font></p>
 * <p><font size="4">1991년 7월 20일생</font></p>
 * <p><font size="4">한양대학교 경영학과</font></p>
