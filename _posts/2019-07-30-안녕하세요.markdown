@@ -10,7 +10,9 @@ date:   2019-08-31 13:48:27 +0900
 * <p><font size="4">'Magic Bar Trick'에서 마술사로 근무</font></p>
 * <p><font size="4">2014 서울시 주최 '펀펀지하철' 마술공연</font></p>
 * <p><font size="4">2019 드래곤시티호텔 킹스베케이션 마술공연</font></p>
+* <p><font size="4">유튜브 '쇼킴매직' 출연 (마술공연)</font></p>
 * <p><font size="4">국제 포커대회 J88 Poker Tour에서 2회 입상(Pair Event, KO bounty)</font></p>
+* <p><font size="4">유튜브 '김학도 TV' 출연 (대회 인터뷰)</font></p>
 * <p><font size="4">'공신' 현화고등학교 강연</font></p>
 * <p><font size="4">수학강사 남휘종T 조교로 근무</font></p>
 * <p><font size="4">수능수학 수험서 이해원 모의고사 N제 확률과 통계 2019, 미분과적분2 2020 검토</font></p>
